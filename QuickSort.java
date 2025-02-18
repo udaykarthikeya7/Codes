@@ -17,10 +17,10 @@ class QuickSort {
         int ub = e;
 
         while(lb < ub) {
-            while(a[lb] <= p) {
+            while(a[lb] <= p && lb < e) {
                 lb++;
             }
-            while(a[ub] > p) {
+            while(a[ub] > p && ub > s) {
                 ub--;
             }
             if(lb < ub) {

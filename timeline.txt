@@ -1,0 +1,21 @@
+class topics:
+1. leaders in array
+2. max equilibrium sum
+3. majority element - elem in array with count more than length/2
+4. quicksort
+5. selectionsort
+6. maneuvering - matrix No. of paths from start to finish (recursion, dynamic)
+7. maze solving
+8. sorted Unique Permutations
+9. combinations
+10. josephus trap
+
+11. Loop Detection Linked List
+12. Even Odd Segregation Linked List {Time - O(n), Space - O(1)}
+
+
+homework:
+1. atm code
+2. gpa calculator
+3. matrix multiplication normal
+4. matrix multiplication row to row
